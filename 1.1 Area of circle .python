@@ -1,0 +1,6 @@
+rad_input = input()
+rad = float(rad_input)
+pi = 3.14
+area = pi*(rad*rad)
+
+print(f"{area:.4f}")
